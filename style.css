@@ -1,0 +1,132 @@
+body{
+  background: #e9e9e9; 
+  font-family: Arial;
+  align-items: center;
+  justify-items: center;
+}
+
+.titulo{
+  align-content: center;
+  justify-content: center;
+  max-width: 100%; 
+  height: auto;
+  width: 300px;
+}
+
+a{
+  background: #ffffff;
+  padding: 10px 25px;
+  text-decoration: none;
+  color: black;
+}
+
+.links{
+  display: flex;
+  gap: 20px;
+  align-content: center;
+  justify-content: center;
+  position: relative;
+  top: 8px;
+}
+
+.Principal{
+  position: relative;
+  top: 40px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 1000px;
+}
+
+.imagem{
+  max-width: 100%; 
+  height: auto;
+  width: 410px;
+}
+
+#vermais{
+  background: #ee2211;
+  color: #ffffff;
+  border: solid #ee2211;
+  border-radius: 5px;
+  position: relative;
+  top: 15px;
+}
+
+.Q1{
+  background: #ffffff;
+  padding: 30px 30px 10px 0px;
+  max-width: 100%;
+  height: auto;
+  width: 390px;
+  text-align: right;
+}
+
+#paragrafo{
+  margin-left: 60px;
+}
+
+.icones{
+  display: grid;
+  grid-template-columns: 1fr 6fr;
+  max-width: 100%;
+  height: auto;
+  width: 400px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px 30px 10px 10px;
+}
+
+#Vantagens{
+  color: #c6c6c6;
+  font-size: 64px;
+  max-width: 100%;
+  height: auto;
+  width: 400px;
+  text-align: right;
+  position: relative;
+  top: 60px;
+  left: 0px;
+}
+
+#vetor{
+  display: flex;
+  position: relative;
+  top: 13px;
+  left: 25px;
+}
+#minititulo{
+  font-weight: bold;
+  padding-bottom: -10px;
+}
+.x{
+  margin-right: 30px;
+}
+
+.fundo{
+  background-color: #ffffff;
+  max-width: 100%;
+  height: 380px;
+  width: 400px;
+  padding: 10px 10px 10px 0px;
+}
+
+
+h1{
+  font-weight: bold;
+  color: #d82a1a;
+  position: relative;
+  bottom: 655px;
+  right: 35px;
+}
+
+.rodape{
+  background-color: #ffffff;
+  position: relative;
+  top: 70px;
+  border: solid #ffffff;
+  padding: 30px 799px;
+  max-width: 100%;
+  height: auto;
+  width: 300px;
+}
+
